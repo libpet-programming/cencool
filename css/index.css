@@ -1,0 +1,10 @@
+body{
+  background-image: url(../img/product.gif);
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
